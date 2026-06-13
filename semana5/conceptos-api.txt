@@ -1,0 +1,5 @@
+lo siento no pude confirmar este apartado, investigue vi tutoriales
+y videos de clases pasadas pero no pude hacer eso, tambien intente utilizar 
+los programas que recomiendan en las insturcciones de la tarea semana5,
+pero no pude ya que utilice code space de github y me pide el vscode, el cual tengo
+pero no se como pasar esto alla.

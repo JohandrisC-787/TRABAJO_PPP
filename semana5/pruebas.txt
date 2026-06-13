@@ -1,0 +1,3 @@
+en las pruebas del servidor pude verificar que al entfrar en esos links
+cada uno de ellos van cambiando, como el de saludo en ves de decir funciona correctamente el serve te dira
+hola comunidad o el de mensaje y nombre que te dejara un mensaje con tu nombre

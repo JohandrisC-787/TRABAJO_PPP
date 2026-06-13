@@ -1,0 +1,5 @@
+Las APIs son una salvación para organizar a las comunidades porque evitan el desorden de los grupos de WhatsApp o Facebook,
+ donde los reportes importantes se terminan perdiendo. Al usar una API, toda la información de los vecinos—como un bache en la calle o una luminaria rota—viaja en un formato limpio y ordenado que el sistema entiende al instante.
+  Esto ayuda a que los reportes no se queden en el aire, sino que lleguen directo a las personas encargadas de resolverlos de forma automática.
+   Además, permiten conectar aplicaciones con sistemas de emergencia para mandar alertas masivas y rápidas a todo el barrio si pasa algo grave.
+    En resumen, las APIs hacen que la comunicación comunitaria deje de ser un caos de mensajes y se convierta en una herramienta real, rápida y organizada para ayudarnos entre todos.
