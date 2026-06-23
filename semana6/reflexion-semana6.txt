@@ -1,0 +1,11 @@
+Imagínate que te llegan miles de mensajes diciendo solo: "Oigan, no sirve la luz por mi casa". Te volverías loco intentando adivinar dónde es o qué tan grave resulta.
+
+Pedir los reportes con casillas y opciones fijas cambia todo porque ayuda a:
+
+Ir al grano: La app guía al ciudadano para que no olvide la dirección ni los detalles importantes.
+
+Atender lo urgente primero: El sistema detecta qué es una emergencia real y lo pasa al frente de la fila automáticamente.
+
+Resolver rápido: En lugar de leer miles de textos largos, la tecnología procesa todo al instante y se lo pasa directo a la persona que puede arreglarlo.
+
+En resumen: Hace que la tecnología entienda el problema a la primera para dar respuestas reales, sin rodeos ni papeleo.

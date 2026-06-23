@@ -1,0 +1,5 @@
+probe la ruta del post con thunder client y me salio esta respuesta: {
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
