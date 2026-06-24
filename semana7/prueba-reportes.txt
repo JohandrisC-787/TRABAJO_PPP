@@ -1,0 +1,9 @@
+al poner el codigo y el link, llega este mensaje al ejecutar el comando y el link en post
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}

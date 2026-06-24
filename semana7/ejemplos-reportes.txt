@@ -1,0 +1,11 @@
+ejemplo 1
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización vial en zona escolar con alto tráfico"
+}
+
+ejemplo: 2
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Fuga de agua potable en la tubería principal de la calle 10"
+}
