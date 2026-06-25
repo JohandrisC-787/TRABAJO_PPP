@@ -1,0 +1,3 @@
+1. Realizar respaldos periódicos
+2. Desconfiar de redes Wi-Fi públicas
+3. Verificar la identidad de los remitentes

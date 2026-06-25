@@ -1,0 +1,6 @@
+el uname -a muestra la informacion sobre el pc MINGW64_NT-10.0-19045 DESKTOP-S6HFMCV 3.6.6-1cdd4371.x86_64 2026-01-15 22:20 UTC x86_64 Msys
+
+y el whoami muestra el nombre del usuario a quien pertenece el pc 
+
+es importante saber porque sirve para que los administradores puedan hacer
+revisiones a los servidores. o arreglar algun error en ellas.

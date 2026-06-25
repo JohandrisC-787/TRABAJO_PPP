@@ -1,0 +1,5 @@
+1. Proteger credenciales: Exigir contraseñas robustas y Autenticación de Dos Factores (2FA).
+2. Usar conexiones seguras: Encriptar la transmisión de datos mediante protocolo HTTPS.
+3. No exponer datos personales: Minimizar la recolección de datos y proteger la privacidad de los usuarios.
+4. Limitar acceso a información sensible: Aplicar control de accesos basado en roles (RBAC) y privilegios mínimos.
+5. Registrar accesos: Mantener un registro de logs para auditar la actividad dentro de la plataforma.
