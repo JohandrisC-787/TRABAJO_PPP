@@ -1,0 +1,9 @@
+1:
+Cuando ejecuto el comando node server.js se activa el servidor 3000.
+
+Servidor ejecutandose en puerto 3000.
+
+2:
+ cuando voy a la pagina localhost:3000/registro
+ me aparece el mensaje {"estado":"Servidor funcionando","servicio":"API comunitaria"}
+ en un fondo negro muy simple.

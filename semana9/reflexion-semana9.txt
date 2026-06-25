@@ -1,0 +1,8 @@
+En resumen, la estabilidad y la seguridad de un servidor son fundamentales
+porque transforman una plataforma tecnológica en un espacio confiable y protegido 
+para sus miembros. Un servidor estable garantiza la disponibilidad constante
+para la coordinación y evita la dispersión de la comunidad por fallos técnicos, 
+mientras que un servidor seguro resguarda la privacidad de los datos personales 
+y blinda el entorno contra ciberataques, malware o filtraciones. En definitiva, 
+la estabilidad mantiene a la comunidad unida y activa, mientras que la seguridad
+la mantiene a salvo de amenazas externas.
