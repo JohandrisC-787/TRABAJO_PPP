@@ -1,0 +1,12 @@
+Reflexión Semana 12 - Aprendizaje sobre Tecnología y Comunidad
+
+Durante este curso comprendí que la tecnología es un motor potente para
+democratizar la participación ciudadana y estructurar la organización comunitaria.
+Aprendí que herramientas metodológicas como el backlog ayudan a ordenar
+las prioridades reales de los vecinos, permitiendo resolver problemas paso a paso.
+Asimismo, la integración de bases de datos estructuradas junto a flujos de trabajo
+automatizados en n8n facilita un canal de comunicación directo y transparente.
+Por otra parte, la generación automática de peticiones formales en formato PDF
+otorga un carácter legal y serio a los apoyos acumulados mediante un simple clic.
+Finalmente, asimilé la importancia crítica de cuidar la privacidad ciudadana,
+relegando el uso de datos sensibles para construir plataformas de veeduría seguras.

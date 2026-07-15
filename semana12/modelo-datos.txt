@@ -1,0 +1,22 @@
+Modelo de Datos para "Petición en 3 Clics"
+
+Entidad: Causa
+Campos principales:
+- id (Clave Primaria, Autoincremental): Identificador único de cada causa en el sistema.
+- titulo (Texto corto): El nombre descriptivo de la iniciativa o problemática.
+- descripcion (Texto largo): El cuerpo de la petición donde se argumenta la necesidad.
+- fecha (Fecha): Día y hora exactos en que se registró la causa.
+
+Propósito:
+Esta entidad sirve para registrar y persistir las peticiones o causas de infraestructura, sociales y comunitarias propuestas por los ciudadanos, sirviendo como catálogo principal del sistema.
+
+
+Entidad: Apoyo
+Campos principales:
+- id (Clave Primaria, Autoincremental): Identificador único de cada apoyo registrado.
+- causa_id (Clave Foránea): Enlace o relación que asocia este apoyo con una causa específica de la tabla anterior.
+- nombre (Texto corto): Iniciales o pseudónimo opcional del usuario que apoya (evitando recolectar información sensible completa).
+- fecha (Fecha): Registro temporal de cuándo se emitió el voto o apoyo.
+
+Propósito:
+Esta entidad permite llevar el control cuantitativo e individual de los apoyos otorgados a cada causa sin almacenar información privada innecesaria, facilitando el conteo dinámico para el documento final.

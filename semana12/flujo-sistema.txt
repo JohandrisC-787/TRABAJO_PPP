@@ -1,0 +1,9 @@
+Flujo del Sistema: "Petición en 3 Clics"
+
+El sistema funciona de manera secuencial a través de los siguientes pasos sencillos:
+
+Paso 1 (Creación): Un ciudadano con iniciativa ingresa a la plataforma y registra una nueva causa comunitaria detallando la problemática y la solución propuesta.
+Paso 2 (Almacenamiento): La causa con todos sus detalles se guarda de forma segura e inmediata en la base de datos central de la plataforma.
+Paso 3 (Participación): Otros miembros de la comunidad ingresan al sistema, leen las causas disponibles y registran su apoyo haciendo un solo clic en el botón correspondiente.
+Paso 4 (Consolidación): El sistema procesa y actualiza dinámicamente el contador acumulando todos los apoyos que va recibiendo la causa en tiempo real.
+Paso 5 (Generación Formal): Al alcanzar una meta establecida o solicitarlo el creador, el sistema genera de forma automática un documento PDF formal que recopila la descripción de la causa y el número total de apoyos consolidados para ser presentado ante las autoridades.

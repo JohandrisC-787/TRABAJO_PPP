@@ -1,0 +1,19 @@
+Automatización Simple del Sistema (n8n + Telegram)
+
+¿Qué evento activa la automatización?
+El evento activador (Trigger) ocurre cuando una causa comunitaria registrada en la plataforma alcanza o supera la meta establecida de apoyos (por ejemplo, cuando llega a los 50 o 100 apoyos en la base de datos).
+
+¿Qué mensaje se envía?
+Se enviará un mensaje automatizado de notificación al canal de Telegram de la junta o comité comunitario:
+"📢 ¡Meta alcanzada! La causa titulada '{{$json.titulo}}' ha recibido el apoyo necesario de la comunidad. 
+
+Total apoyos acumulados: {{$json.total_apoyos}}
+Fecha de finalización: {{$json.fecha_meta}}
+
+El documento PDF de la petición formal ya se encuentra disponible para su descarga en el panel de administración."
+
+¿Qué información no debe enviarse por seguridad?
+Por políticas estrictas de privacidad y minimización de datos en canales públicos o chats comunitarios, bajo ninguna circunstancia se debe incluir:
+1. Datos de identificación personal (como nombres completos, números de cédula, correos electrónicos o teléfonos de los ciudadanos que apoyaron).
+2. Direcciones físicas exactas o domicilios privados de los denunciantes.
+3. Credenciales de acceso, contraseñas, tokens de API o enlaces directos sin seguridad al servidor.
