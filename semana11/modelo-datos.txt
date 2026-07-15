@@ -1,0 +1,28 @@
+Modelo de Datos Básico para una Plataforma Comunitaria
+
+Entidad: Reporte (o Incidencia)
+
+Campos principales:
+- id (Clave Primaria, Autoincremental)
+- titulo (Texto corto, ej: "Bache en calle principal")
+- descripcion (Texto largo, detalles del problema)
+- ubicacion (Texto, coordenadas o dirección de la zona)
+- estado (Texto: "Pendiente", "En proceso", "Solucionado")
+- fecha_creacion (Fecha y hora del reporte)
+- creador_id (ID del ciudadano que reporta)
+
+Propósito:
+Registrar y almacenar toda la información detallada sobre los problemas de infraestructura o alertas comunitarias que los ciudadanos reportan en la plataforma para que puedan ser visualizados y gestionados.
+
+
+Entidad: Comentario (o Veeduria)
+
+Campos principales:
+- id (Clave Primaria, Autoincremental)
+- reporte_id (Clave Foránea, conecta este comentario con un Reporte específico)
+- autor (Texto, nombre del veedor o miembro de la comunidad que comenta)
+- mensaje (Texto largo, el contenido del aporte o avance)
+- fecha_publicacion (Fecha y hora de publicación del comentario)
+
+Propósito:
+Permitir a los miembros del equipo de veeduría y a la comunidad registrar actualizaciones, avances o comentarios de seguimiento sobre un reporte específico, manteniendo la transparencia en el proceso de solución.

@@ -1,0 +1,15 @@
+Descripción de la Interfaz Básica de la Plataforma Comunitaria
+
+La interfaz del sistema estará diseñada en una sola página web limpia, clara y accesible (Single Page Application) que se divide en las siguientes secciones principales:
+
+1. Formulario de Registro de Causas:
+Ubicado en la parte lateral o superior de la pantalla. Contendrá un formulario sencillo con campos para escribir el "Título de la Causa", una "Descripción detallada" y un campo de "Fecha". Incluirá un botón visible de "Publicar Causa" para guardarla en el sistema de manera inmediata.
+
+2. Vista de Causas Disponibles:
+En el cuerpo principal de la página se presentará un listado ordenado o cuadrícula (cards) con todas las causas activas registradas por la comunidad. Cada tarjeta mostrará el título de la causa, la fecha de creación y la descripción corta del problema.
+
+3. Botón de Apoyo y Contador:
+Cada tarjeta de causa disponible incluirá en su parte inferior un botón interactivo llamado "Apoyar Causa" (representado con un icono de corazón o pulgar arriba). Justo al lado de este botón, se ubicará un contador numérico dinámico que se actualizará en tiempo real mostrando el total de apoyos acumulados (ej: "15 apoyos").
+
+4. Política de Privacidad de la Interfaz:
+Para garantizar la seguridad, la interfaz no mostrará públicamente ningún dato sensible de los usuarios que crean o apoyan las causas (como correos, contraseñas, teléfonos o documentos de identidad), manteniendo el anonimato de la participación comunitaria.

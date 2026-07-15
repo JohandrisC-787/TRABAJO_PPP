@@ -1,0 +1,12 @@
+Reflexión Semana 11 - Seguridad y Datos en la Participación Ciudadana
+
+Una plataforma de participación ciudadana requiere una base de datos estructurada
+para almacenar de forma permanente e íntegra las iniciativas y los reportes,
+permitiendo que la comunidad consulte y de seguimiento real a cada proceso.
+La autenticación de usuarios es indispensable para validar la identidad de quienes
+participan, evitando la creación de cuentas falsas, spam o la duplicación de votos.
+Esto garantiza que la toma de decisiones comunitarias sea democrática y transparente.
+Por último, la protección rigurosa de la información personal de cada participante
+es un deber ético y legal que previene el acoso, las represalias o la suplantación.
+Al resguardar con seguridad datos sensibles como direcciones o números de teléfono,
+se construye un entorno digital confiable que motiva una participación ciudadana activa.

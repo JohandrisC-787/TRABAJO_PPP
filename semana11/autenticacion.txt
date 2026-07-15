@@ -1,0 +1,12 @@
+Explicación de Autenticación y Seguridad
+
+El login es el proceso mediante el cual una aplicación 
+identifica y valida la identidad de un usuario antes de 
+permitirle el acceso. Es crucial proteger ciertas rutas 
+dentro del sistema porque contienen información privada, 
+registros internos o funciones de administración que no 
+deben ser manipuladas por cualquier persona externa. 
+Para garantizar la seguridad del sistema y de la comunidad, 
+bajo ninguna circunstancia se debe exponer públicamente información 
+sensible como contraseñas, documentos de identidad, números de teléfono, 
+direcciones físicas, tokens de acceso o claves de API.
