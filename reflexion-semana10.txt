@@ -1,6 +1,0 @@
-Las metodologías ágiles, la automatización con n8n y canales como Telegram transforman la participación ciudadana al descentralizar y dinamizar los procesos de veeduría.
-El enfoque ágil permite priorizar las necesidades comunitarias más urgentes y entregar soluciones incrementales en lugar de esperar proyectos de largo aliento. Por su parte, 
-la automatización reduce la carga operativa del equipo coordinador y asegura que cada reporte ciudadano sea procesado al instante sin errores humanos. 
-Finalmente, Telegram actúa como un canal democrático, inmediato y de bajo consumo de datos que mantiene a toda la comunidad 
-informada y conectada en tiempo real. Esta combinación tecnológica y metodológica reduce la brecha entre los ciudadanos 
-y los gestores, construyendo procesos de control social mucho más transparentes, eficientes y participativos.
